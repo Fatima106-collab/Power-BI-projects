@@ -89,7 +89,7 @@ Average Rating: 3.92
 
     * Item Type Breakdown: Top-selling categories include Snack Foods (1,200 items) and Fruits & Vegetables (232 items).
 
-    *Outlet Analysis:
+    * Outlet Analysis:
 * Outlet Size: Sales contribution across small (20.72%), medium (37.01%), and high (42.27%) sizes.
 * Outlet Location: Tiered locations (Tier 1, Tier 2, Tier 3) with respective sales and item distributions.
 * Outlet Type: Performance by store type, showing the dominance of Supermarket Type 1 ($787.5K in total sales).
