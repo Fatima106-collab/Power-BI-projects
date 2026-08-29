@@ -69,16 +69,20 @@ RETURN
     DIVIDE(CurrentRevenue - PreviousMonthRevenue, PreviousMonthRevenue, 0)
 
 
+
     ---
+
+## Report Structure & Pages
+
 # Item Sales Summary Report 
 ### 1️⃣ Sales & Profitability Overview
-![Sales & Profitability Overview](./Item%20Sales%20Summary.png)
+![Sales & Profitability Overview](./Item%20Sales%20Summary%20.png)
 
 ### 2️⃣ Volume & Item Distribution
 ![Volume & Item Distribution](./Sales%20summary%20report.png)
 
 ### 3️⃣ Detailed Financial Breakdown by State
-![Detailed Financial Breakdown](./Sales%20By%20State.png)
+![Detailed Financial Breakdown](./Sales%20By%20State%20.png)
 
 ##  Project Overview
 The **Item Sales Summary** project is a comprehensive multi-page Power BI report designed to analyze product sales, profitability, and operational volume. It provides executive-level KPIs alongside deep granular insights across various geographic states, years, and item categories.
