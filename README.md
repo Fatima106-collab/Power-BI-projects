@@ -6,7 +6,7 @@ The **Maven Market** project is an end-to-end business intelligence solution des
 ---
 
 ## 📸 Dashboard Screenshots
-
+![Maven Market Dashboard](./Mavien%20Market.webp) 
 ---
 
 ##  Report Structure & Key Insights
