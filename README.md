@@ -47,28 +47,6 @@ The project utilizes a **Star Schema** to ensure fast query execution and optima
 * **Power Query (M):** Data cleaning, unpivoting, column merging, and data type transformations.
 * **DAX (Data Analysis Expressions):** Advanced calculated columns and measures using iterators (`SUMX`) and time intelligence.
 
-### Sample DAX Measures
-
-```dax
-// Total Revenue Calculation
-Total Revenue = 
-SUMX(
-    Sales_Data, 
-    Sales_Data[quantity] * RELATED(Products[product_retail_price])
-)
-
-// Month-over-Month Revenue Growth
-MoM Revenue Growth = 
-VAR CurrentRevenue = [Total Revenue]
-VAR PreviousMonthRevenue = 
-    CALCULATE(
-        [Total Revenue], 
-        DATEADD('Calendar'[Date], -1, MONTH)
-    )
-RETURN
-    DIVIDE(CurrentRevenue - PreviousMonthRevenue, PreviousMonthRevenue, 0)
-
-
 
     ---
 
