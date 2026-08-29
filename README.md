@@ -67,3 +67,51 @@ VAR PreviousMonthRevenue =
     )
 RETURN
     DIVIDE(CurrentRevenue - PreviousMonthRevenue, PreviousMonthRevenue, 0)
+
+
+    ---
+# Item Sales Summary Report 
+### 1️⃣ Sales & Profitability Overview
+![Sales & Profitability Overview](./Item%20Sales%20Summary.png)
+
+### 2️⃣ Volume & Item Distribution
+![Volume & Item Distribution](./Sales%20summary%20report.png)
+
+### 3️⃣ Detailed Financial Breakdown by State
+![Detailed Financial Breakdown](./Sales%20By%20State.png)
+
+##  Project Overview
+The **Item Sales Summary** project is a comprehensive multi-page Power BI report designed to analyze product sales, profitability, and operational volume. It provides executive-level KPIs alongside deep granular insights across various geographic states, years, and item categories.
+
+---
+
+## Report Structure & Pages
+
+1. **Sales & Profitability Overview (`Item Sales Summary.png`)**
+   * High-level executive KPIs: **Total Sales ($20M)**, **Total Profit ($9.92M)**, **Cost ($9.96M)**, and **Profitability Margin (49.9%)**.
+   * Multi-year trend analysis for total profit and tax-excluded figures (2013–2016).
+   * Regional breakdown of performance by states and top-performing stock items.
+
+2. **Volume & Item Distribution (`Sales summary report.png`)**
+   * Operational metrics tracking **Total Quantity (1M)**, split between **Chiller Items (14K)** and **Dry Items (1M)**.
+   * Total sales trajectory across years alongside top item volumes.
+   * Categorized state breakdown based on performance ratings (Amazing, Average, Poor).
+
+3. **Detailed Financial Breakdown (`Sales By State.png`)**
+   * Granular table analysis detailing **Total Sales**, **Total Cost**, **Total Quantity**, and **Total Profit** across individual cities and states from 2013 to 2015.
+
+---
+
+##  Key Features
+* **Multi-Page Navigation:** Distinct reporting pages for Executive Summary, Product Volume, and Granular Details.
+* **Interactive Filtering Pane:** Slice all pages dynamically by Employee, Customer, City, Buying Group, and Sales Territory.
+* **Performance Tiering:** Automated classification of states and regions into operational performance groups (e.g., Amazing, Average, Poor).
+
+---
+
+## Tools & Technologies Used
+* **Power BI Desktop:** Dashboard construction, visual design, and page navigation setup.
+* **DAX (Data Analysis Expressions):** Profitability calculations, volume counts, and dynamic measure aggregates.
+* **Power Query:** Data extraction, cleaning, and attribute transformation.
+
+---
