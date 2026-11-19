@@ -8,21 +8,26 @@ The **AdventureWorks** project is a comprehensive, multi-page Business Intellige
 ## 📸 Dashboard Screenshots
 
 ### 1️⃣ Executive Overview (`Over View`)
-![AdventureWorks Overview](./AdventureWorks_Overview.png)
+(<img width="1920" height="1080" alt="Screenshot 2026-11-19 101846" src="https://github.com/user-attachments/assets/43da6314-a81c-43d3-b737-6a8b828bac96" />
+)
 
 ### 2️⃣ Product Details & Target Tracking (`Product Details`)
-![AdventureWorks Product Details](./AdventureWorks_Product_Details.png)
+(<img width="1920" height="1080" alt="Screenshot 2026-11-19 101857" src="https://github.com/user-attachments/assets/27c27c79-a2bd-4f18-83f4-d0ac0c59109c" />
+)
 
 ### 3️⃣ Customer Demographics & Segmentation (`Customer Detail`)
-![AdventureWorks Customer Detail](./AdventureWorks_Customer_Detail.png)
+(<img width="1920" height="1080" alt="Screenshot 2026-11-19 101909" src="https://github.com/user-attachments/assets/f27e4b1e-1b52-485e-a774-e1c1afd2d53a" />
+)
 
 ### 4️⃣ Data Model & Schema Architecture
-![AdventureWorks Data Model](./AdventureWorks_Data_Model.png)
+(<img width="1920" height="1080" alt="Screenshot 2026-11-19 101831" src="https://github.com/user-attachments/assets/ce540576-9bb3-4f71-8319-5c9368a9c811" />)
 
 ### 5️⃣ Custom Report Tooltips
 | Category Tooltip | General KPI Tooltip |
 | :---: | :---: |
-| ![Category Tooltip](./AdventureWorks_Category_Tooltip.png) | ![General Tooltip](./AdventureWorks_Tooltip.png) |
+| (<img width="1920" height="1080" alt="Screenshot 2026-11-19 101918" src="https://github.com/user-attachments/assets/f9737ae0-dd5c-4fd1-80e4-c3fd2a829033" />
+) | (<img width="1920" height="1080" alt="Screenshot 2026-11-19 101927" src="https://github.com/user-attachments/assets/71b63fc7-4503-4141-86b4-1e6b1acf14a7" />
+) |
 
 ---
 
